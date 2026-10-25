@@ -146,7 +146,7 @@ class Monitor(QWidget):
         self.resize(900, 560)
         self.centre = 57.0      # A3, middle of a typical range
         self.span = 28.0        # semitones on screen: two octaves and a third
-        self.seconds = 8.0
+        self.seconds = 12.0
         self.paused_at = None   # time frozen at when paused
         self.follow = True
         self.last = None        # (midi, time) of the latest pitched frame

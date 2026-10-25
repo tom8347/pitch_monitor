@@ -30,7 +30,7 @@ time.
 | ------------- | ------------------------------------------------ |
 | Wheel         | Move up and down the keyboard                    |
 | Ctrl+wheel    | Zoom: more or fewer semitones on screen          |
-| Shift+wheel   | Longer or shorter time span (8 s to start with)  |
+| Shift+wheel   | Longer or shorter time span (12 s to start with) |
 | Space         | Pause / resume                                   |
 | F             | Follow your voice on or off                      |
 | Up / Down     | Move a semitone; Home re-centres on the last note |
